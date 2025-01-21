@@ -68,7 +68,7 @@ We used **SHAP** (SHapley Additive exPlanations) to:
 ## How to Run the Project
 
 1. Clone this repository:
-git clone https://github.com/your-username/breast-cancer-detection.git cd breast-cancer-detection
+git clone https://github.com/Divyansh1414/Breast-Cancer-Detection-Using-XGBoost.git cd Breast-Cancer-Detection-Using-XGBoost
 
 2. Install the required dependencies:
 pip install -r requirements.txt
